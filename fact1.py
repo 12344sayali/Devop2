@@ -4,5 +4,5 @@ for i in range(1, num + 1):
     factorial *= i
 print("The factorial of num is" ,factorial)
 print("sayali")
-print("thank you)
+print("thank you")
 print("sakshi")
